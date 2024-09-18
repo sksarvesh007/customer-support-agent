@@ -1,0 +1,31 @@
+question : How can the HS100 V3 Wi-Fi Smart Plug be controlled remotely, and what app is used for this purpose?
+question : How can the HS100 V3 Wi-Fi Smart Plug be controlled remotely, and what app is used for this purpose?
+template_compatibility='The HS100 V3 Wi-Fi Smart Plug can be controlled remotely using the free Kasa app on your smartphone. The Kasa app allows you to control devices connected to the Smart Plug wherever you have Internet.'
+-------------------------------
+question : What scheduling features does the HS100 V3 Wi-Fi Smart Plug offer for managing household electronics?
+template_compatibility='The HS100 V3 Wi-Fi Smart Plug offers scheduling features that allow you to manage your household electronics automatically. You can schedule the Smart Plug to power electronics on and off as needed, such as setting lights to come on at dusk or turn off at sunrise. Additionally, you can use the Away Mode feature to turn your devices on and off at different times to give the appearance that someone is home. You can also set a countdown timer to automatically switch off running household appliances if you have set a time limit before.'
+-------------------------------
+question : Describe the security features of the HS100 V3 Wi-Fi Smart Plug that create the appearance of someone being home.
+template_compatibility='The HS100 V3 Wi-Fi Smart Plug has several security features that create the appearance of someone being home, including the Away Mode feature, which turns your devices on and off at different times to give the appearance that someone is home. Additionally, the scheduling feature allows you to set your lights to turn on and off on a schedule, making it seem like you’re home when you’re actually away. These features can help deter bad guys and provide an added layer of security for your home.'
+-------------------------------
+question : What are the dimensions and weight of the HS100 V3 Wi-Fi Smart Plug?
+template_compatibility='The dimensions of the HS100 V3 Wi-Fi Smart Plug are 100.3 x 66.3 x 77 mm, and the weight is 131.8g.'
+-------------------------------
+question : How does the design of the HS100 V3 Wi-Fi Smart Plug blend with modern home decor, and what is the benefit of its countdown
+template_compatibility='The design of the HS100 V3 Wi-Fi Smart Plug is inspired by a modern sensibility, making it both simple and elegant. This allows it to blend seamlessly with existing home decor. The benefit of its countdown feature is that it gives users peace of mind by automatically switching off running household appliances if a time limit is set, preventing them from being left on for an extended period.'
+-------------------------------
+question : How can the HS100 V3 Wi-Fi Smart Plug be controlled remotely, and what app is used for this purpose?
+template_compatibility='The HS100 V3 Wi-Fi Smart Plug can be controlled remotely using the free Kasa app on your smartphone. The Kasa app allows you to control devices connected to the Smart Plug wherever you have Internet.'
+-------------------------------
+question : What scheduling features does the HS100 V3 Wi-Fi Smart Plug offer for managing household electronics?
+template_compatibility='The HS100 V3 Wi-Fi Smart Plug offers scheduling features that allow you to automatically power electronics on and off as needed. You can schedule the Smart Plug to turn on and off at different times to give the appearance that someone is home, and you can also set a countdown timer to automatically switch off running household appliances if you have set a time limit before. Additionally, you can use the free Kasa app on your smartphone to control devices connected to the Smart Plug wherever you have Internet, and you can also use voice commands with Alexa or Google Assistant supported devices for a hands-free experience.'
+-------------------------------
+question : Describe the security features of the HS100 V3 Wi-Fi Smart Plug that create the appearance of someone being home.
+template_compatibility="The HS100 V3 Wi-Fi Smart Plug has several security features that create the appearance of someone being home, including the Away Mode feature, which turns your devices on and off at different times to give the appearance that someone is home. Additionally, the scheduling feature allows you to set your lights to turn on and off on a schedule, making it seem like you're home when you're actually away. These features can help deter bad guys and provide an added layer of security for your home."
+-------------------------------
+question : What are the dimensions and weight of the HS100 V3 Wi-Fi Smart Plug?
+template_compatibility='The dimensions of the HS100 V3 Wi-Fi Smart Plug are 100.3 x 66.3 x 77 mm, and the weight is 131.8g.'
+-------------------------------
+question : How does the design of the HS100 V3 Wi-Fi Smart Plug blend with modern home decor, and what is the benefit of its countdown
+template_compatibility='The design of the HS100 V3 Wi-Fi Smart Plug is inspired by a modern sensibility, making it both simple and elegant. This allows it to blend seamlessly with existing home decor. The benefit of its countdown feature is that it gives users peace of mind by automatically switching off running household appliances if a time limit is set before.'
+-------------------------------
